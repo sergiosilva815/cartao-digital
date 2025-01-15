@@ -3,7 +3,7 @@
 
 body {
     background-color:#222831;
-    margin: 0%;
+    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -23,26 +23,27 @@ body {
 /* selecionando imagem q esta dentro div foto */
 .foto img{
     border-radius: 50%;
-    border: 5px #222831 solid;
-    margin: 0%;
-  
-    
-}.conteudo{
+    border: 5px #222831 solid;     
+    }
+
+.conteudo{
     margin-top: 30px;
     margin-bottom: 30px;
 }
 .conteudo h1{
-    margin: 0%;
+    margin: 0;
     color: #393939;/* cor da fonte*/
     font-size: 32px;/* tamanho da fonte*/
 }
-conteudo.h2{
-    margin: 0%;
+
+.conteudo h2{
+    margin: 0;
     color: #222831;/* cor da fonte*/
     font-size: 20px;/* tamanho da fonte*/
-}  
+}
+
 .conteudo p{
-    color: 666666;
+    color: #666666;
 }
 .menu a{
     background-color: #393939;
